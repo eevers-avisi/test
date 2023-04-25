@@ -1,0 +1,5 @@
+.show(display.Text("ping", 320, 200, display.GREEN, justify=display.MIDDLE_CENTER))
+       print('B')
+
+
+touch.callback(touch.BO

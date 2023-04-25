@@ -1,0 +1,5 @@
+, 200, display.GREEN, justify=display.TOP_LEFT)
+    display.show(t)
+
+bluetooth.receive_callback(fn)
+# Define the tou

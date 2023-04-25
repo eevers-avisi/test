@@ -1,0 +1,9 @@
+import touch
+import display
+import led
+import time
+import bluetooth
+
+led.off(led.RED)
+display.brightness(2)
+text = display.Text

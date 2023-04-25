@@ -1,0 +1,5 @@
+        print('A')
+        display.show()
+        display.show(display.Text("", 0, 0, 0))
+    if arg == touch.B:
+       display

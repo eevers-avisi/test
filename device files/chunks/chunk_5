@@ -1,0 +1,5 @@
+xt)
+
+def fn(bytes):
+    txt = bytes.decode()
+    t = display.Text(txt, 1

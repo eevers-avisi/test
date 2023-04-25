@@ -1,0 +1,5 @@
+ch callback function which is triggered upon a touch event
+def fn(arg):
+    global text
+    global line
+    if arg == touch.A:

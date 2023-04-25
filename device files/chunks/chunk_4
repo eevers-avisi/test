@@ -1,0 +1,3 @@
+}:{now["second"]:02d}'
+	text = display.Text(time_text, 320, 200, display.GREEN, justify=display.MIDDLE_CENTER)
+	display.show(te
