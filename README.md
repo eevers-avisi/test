@@ -1,6 +1,6 @@
 ### Chunk-loader demo for the Monocle
 
-There is a limitation in Monocle now that does not allow to store files, longer than 128 characters long. 
+There is a limitation in [Monocle](https://www.brilliantmonocle.com/) now that does not allow to store files, longer than 128 characters long. 
 This demo shows how can you dynamically load a long python file, that was split into small chunks and execute it.
 The chunk loading logic is also split into multiple modules (l1, l2, l3) to fit into 128 chars limit.
 
