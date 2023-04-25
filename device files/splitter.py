@@ -14,7 +14,7 @@ def split_file(file_name):
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
-        print("Usage: python script_name.py <input_file>")
+        print("Usage: python splitter.py <input_file>")
     else:
         input_file = sys.argv[1]
         split_file(input_file)
